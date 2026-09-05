@@ -1,6 +1,6 @@
 package com.splitlink.common.resolver;
 
-import com.splitlink.common.anotation.AuthMember;
+import com.splitlink.common.annotation.AuthMember;
 import com.splitlink.common.jwt.JwtProvider;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;

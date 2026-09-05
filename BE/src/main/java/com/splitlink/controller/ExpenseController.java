@@ -1,8 +1,7 @@
 package com.splitlink.controller;
 
-import com.splitlink.common.anotation.AuthMember;
+import com.splitlink.common.annotation.AuthMember;
 import com.splitlink.common.api.ApiResponse;
-import com.splitlink.service.ExpenseService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
